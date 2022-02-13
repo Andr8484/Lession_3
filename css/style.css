@@ -1,0 +1,37 @@
+h1 {
+	color: purple;
+}
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: lawngreen;
+}
+div {
+	color: royalblue;
+}
+.red {
+	color: red;
+}
+xmp {
+	color: black;
+}
+.color {
+	color: burlywood;
+}
+.rgb {
+	color: darkblue;
+}
+.rgbred {
+	color: rgb(255, 0, 0);
+}
+.rgbyellow {
+	color: rgb(255, 150, 0);
+}
+.hex {
+	color: #ff9600;
+}
+div.hex {
+	color: darkslategray;
+}
